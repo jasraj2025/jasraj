@@ -1,0 +1,88 @@
+#Bedroom{
+    width:500px;
+    height: 30px;
+    font-family: Impact;
+    letter-spacing:2px;
+    font-size:20px;
+    background-color: white;
+    border-radius:100px;
+}
+
+body {
+    background-size : cover;
+    
+}
+
+#TVandAC{
+    width:500px;
+    height: 30px;
+    font-family: Impact;
+    letter-spacing:2px;
+    font-size:20px;
+    background-color: white;
+    border-radius:100px;
+}
+
+#Desk{
+    width:500px;
+    height: 30px;
+    font-family: Impact;
+    letter-spacing:2px;
+    font-size:20px;
+    background-color: white;
+    border-radius:100px;
+}
+
+
+#Bottles{
+    width:500px;
+    height: 30px;
+    font-family: Impact;
+    letter-spacing:2px;
+    font-size:20px;
+    background-color: white;
+    border-radius:100px; 
+}
+
+#FruitBasket{
+    width:500px;
+    height: 30px;
+    font-family: Impact;
+    letter-spacing:2px;
+    font-size:20px;
+    background-color: white;
+    border-radius:100px;  
+}
+
+#status{
+    background-color:red;
+}
+
+
+#status2{
+    background-color:green;
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 30px black;
+    border-radius: 10px;
+}
